@@ -27,7 +27,7 @@ Quick summary of basic git bash commands; a refresher for when I come back from 
 ## etc
 **git add &lt;file/folder name&gt;** - self explanatory
 
-**git commit -a -m '&lt;commit message&gt;'** - -a skips staging process, -m is for adding commit message before the bash requests it; newly created files/folders are not tracked, ergo they must be added manually using "git add &lt;file/folder name&gt;"
+**git commit -a -m '&lt;commit message&gt;'** - **-a** skips staging process, **-m** is for adding commit message before the bash requests it; newly created files/folders are not tracked, ergo they must be added manually using "git add &lt;file/folder name&gt;"
 
 **push** - Push the committed changes to remote repository
 
