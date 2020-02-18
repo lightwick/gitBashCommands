@@ -40,6 +40,6 @@ Quick summary of basic git bash commands; a refresher for when I come back from 
 
 **mv &lt;file&gt; &lt;destination directory&gt;** - moves 'file' to designated directory
 
-###current questions
+### current questions
 1. reverting back to old version
 2. where to write version of code
