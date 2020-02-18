@@ -4,7 +4,7 @@ Quick summary of basic git bash commands; a refresher for when I come back from 
 ## Ininitialization
 **git init** - Initialization
 
-**git remote add $<$address$>$** - adds remote access
+**git remote add &lt;address&gt;** - adds remote access
 
 ## Remote to Local
 **clone** - When downloading for the first time, in a new environment; e.g. different folder
@@ -17,15 +17,15 @@ Quick summary of basic git bash commands; a refresher for when I come back from 
 
 
 ## etc
-**git add $<$file/folder name$>$** - self explanatory
+**git add &lt;file/folder name&gt;** - self explanatory
 
-**git commit -a -m '$<$commit message$>$'** - -a skips staging process, -m is for adding commit message before the bash requests it; newly created files/folders are not tracked, ergo they must be added manually using "git add $<$file/folder name$>$"
+**git commit -a -m '&lt;commit message&gt;'** - -a skips staging process, -m is for adding commit message before the bash requests it; newly created files/folders are not tracked, ergo they must be added manually using "git add &lt;file/folder name&gt;"
 
 **push** - Push the committed changes to remote repository
 
 ## non git related
-**rm $<$file$>$** - removes file
+**rm &lt;file&gt;** - removes file
 
-**touch $<$file$>$** - creates file in current directory
+**touch &lt;file&gt;** - creates file in current directory
 
-**mv $<$file$>$ $<$destination directory$>$** - moves 'file' to designated directory
+**mv &lt;file&gt; &lt;destination directory&gt;** - moves 'file' to designated directory
