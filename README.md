@@ -20,6 +20,8 @@ Quick summary of basic git bash commands; a refresher for when I come back from 
 
 **git checkout -b &lt;Branch Name&gt;** - changes to branch; the **-b** creates a new branch
 
+**git branch -d &lt;Branch Name&gt;** - deletes branch
+
 **git stash** - stashes changes made
 
 **git stash apply** - applies the stashed change
