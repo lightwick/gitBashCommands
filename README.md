@@ -38,6 +38,10 @@ Quick summary of basic git bash commands; a refresher for when I come back from 
 ## non git related
 **rm &lt;file&gt;** - removes file
 
+**git rm -r &lt;directory&gt;** - remove directory from local & remote; must be commited
+
+**git rm -r --cached &lt;directory&gt** - remove directory only on remote repository, locally remaining; must be commited
+
 **touch &lt;file&gt;** - creates file in current directory
 
 **mv &lt;file&gt; &lt;destination directory&gt;** - moves 'file' to designated directory
