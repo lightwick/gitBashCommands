@@ -40,7 +40,7 @@ Quick summary of basic git bash commands; a refresher for when I come back from 
 
 **git rm -r &lt;directory&gt;** - remove directory from local & remote; must be commited
 
-**git rm -r --cached &lt;directory&gt** - remove directory only on remote repository, locally remaining; must be commited
+**git rm -r --cached &lt;directory&gt;** - remove directory only on remote repository, locally remaining; must be commited
 
 **touch &lt;file&gt;** - creates file in current directory
 
